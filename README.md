@@ -8,13 +8,5 @@
 
 ## Sample audio files
 ### bpskgen.wav
-<figure>
-    <figcaption>Listen to the T-Rex:</figcaption>
-    <audio
-        controls
-        src="audio/bpskgen.wav">
-            Your browser does not support the
-            <code>audio</code> element.
-    </audio>
-</figure>
+<audio controls src="audio/bpskgen.wav"></audio>
 ### qpskgen.wav
