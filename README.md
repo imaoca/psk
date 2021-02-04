@@ -1,4 +1,4 @@
-# They are simple modulation and demodulation python programs for Phase-shift keying (PSK).
+# Modulation and demodulation python programs for Phase-shift keying (PSK).
 
 ## bpskgen.py
 
